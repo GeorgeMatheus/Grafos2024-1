@@ -1,7 +1,3 @@
-## TrabalhoGrafos_2024-1_v2
-
-
-### Implementação da representação de grafos: Listas de adjacência
 # TrabalhoGrafos
 
 Este projeto é uma implementação de uma biblioteca genérica para grafos e um aplicativo que utiliza essa biblioteca.
