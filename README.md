@@ -22,3 +22,4 @@ Isso resulta em uma ordenação linear dos vértices, onde, se há uma aresta do
 vital estabelecer uma sequência ordenada de eventos.
 
 ## Link para o relatório
+[Implementação de Grafos](https://docs.google.com/document/d/1fmZH685xtwsP2lVApfpN1kR6oWUOLditSSexJvkmkws/edit?usp=sharing)
